@@ -24,7 +24,7 @@ The Terraform configuration is organized into the following files:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-terraform-vpc.git
+    git clone https://github.com/nyilinhtut1994/Creating_VPC_On_AWS_With_Terraform.git
     cd your-terraform-vpc
     ```
 
@@ -34,7 +34,7 @@ The Terraform configuration is organized into the following files:
     terraform init
     ```
 
-3. Review the configuration parameters in `main.tf` and update them according to your requirements.
+3. Review the configuration parameters in `main.tf` and `variable.tf` and update them according to your requirements.
 
 4. Apply the Terraform configuration:
 
